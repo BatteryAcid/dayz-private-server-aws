@@ -1,0 +1,1 @@
+zip -r support-files.zip support-files/* -x *.DS_Store*
