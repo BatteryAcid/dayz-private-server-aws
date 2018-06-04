@@ -1,5 +1,7 @@
 # dayz-private-server-aws
 
-TODO: link to wiki
+DayZ Private Vanilla Server Instructions are in the Wiki:  
 
-Files will go in the repo
+- https://github.com/BatteryAcid/dayz-private-server-aws/wiki  
+
+- Some configuration files are stored in the repo to ease server setup.
