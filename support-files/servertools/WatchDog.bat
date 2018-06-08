@@ -5,7 +5,7 @@
 set Homedir=%CD%
 set GameServerPath="C:\arma2oa"
 set GameServerExe="C:\arma2oa\arma2oaserver.exe"
-set MYSQLPath=C:\Program Files\MySQL\MySQL Server 5.7\bin\"
+set MYSQLPath="C:\Program Files\MySQL\MySQL Server 5.7\bin\"
 set MYSQLExe="C:\Program Files\MySQL\MySQL Shell 8.0\bin\mysqlsh.exe"
 set BECPath="C:\ServerTools\BEC\"
 set BlockerPath="C:\ServerTools\Restart\"
