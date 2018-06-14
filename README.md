@@ -6,5 +6,5 @@ DayZ Private Vanilla Server Instructions are in the Wiki:
 
 - Some configuration files are stored in the repo to ease server setup.
 
-- DayZ Mode Source: https://github.com/DayZMod/DayZ
+- DayZ Mod Source: https://github.com/DayZMod/DayZ
 
